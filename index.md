@@ -1,7 +1,7 @@
 ## Welcome!
 
 ### About me
-Hello everybody! My name is Guillermo; nice to meet you. I was born in Spain and got a bachelor’s degree in Computer Engineering with a minor in Software Engineering from the University of Seville. I’m currently working at Acronis as a Software Developer.
+Hello everybody! My name is Guillermo; nice to meet you. I was born in Spain and got a bachelor’s degree in Computer Software Engineering from the University of Seville. I’m currently working at Acronis as a Senior Software Developer.
 
 Some of my hobbies are music, which I’m passionate about, history and other fields in engineering (in fact, any area of science will do for me). I also like reading Wikipedia as much as possible, sports (callisthenics especially), languages or video games.
 
